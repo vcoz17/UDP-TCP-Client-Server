@@ -1,6 +1,6 @@
 # UDP-TCP-Client-Server
 
-This is an implementation of a TCP and UDP client server program in which the server acts as a (simple) calculator to act on two numbers sent to it by the client.
+This is an implementation of a TCP and UDP client server program in Python in which the server acts as a (simple) calculator to act on two numbers sent to it by the client.
 
 The server performs the Operation Code (OC) requested on the two integer numbers it receives from the sender and returns the result.
 
